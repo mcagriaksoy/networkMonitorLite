@@ -31,7 +31,7 @@ Main UI:
 
 How to Open the taskbar widget:
 
-![Settings Dialog](img/settings.png)
+![Settings Dialog](img/how_to_display.gif)
 
 ## Requirements
 - Windows 10/11
