@@ -6,6 +6,20 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>disable</ImplicitUsings>
+    <!-- Assembly / File metadata for Windows file properties -->
+    <Title>NetworkMonitor Lite</Title>
+    <Description>Lightweight network speed monitor with tray icon and taskbar widget.</Description>
+    <Company>mcagriaksoy</Company>
+    <Product>NetworkMonitor Lite</Product>
+    <Trademark>NetworkMonitorLite</Trademark>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <!-- Versions -->
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <InformationalVersion>1.0.1 (Build $(Configuration))</InformationalVersion>
+
+    <!-- Executable icon (will only be used if the file exists) -->
+    <ApplicationIcon Condition="Exists('Assets\\icon.ico')">Assets\icon.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>

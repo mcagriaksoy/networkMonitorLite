@@ -3,11 +3,11 @@
 <a href="#license"><img src="https://img.shields.io/badge/License-Apache_v2-red" alt="License"></a>
 <a href="https://github.com/mcagriaksoy/networkMonitorLite/issues"><img src="https://img.shields.io/github/issues/mcagriaksoy/networkMonitorLite" alt="issues - networkMonitorLite"></a>
 
-NetworkMonitor Lite is a tiny (140KB), malware-free Windows app that shows live upload/download speeds in a clean interface, system tray icon, and draggable taskbar widget. Lightweight, portable, and fully compatible with Windows 11.
+NetworkMonitor Lite is a tiny (200KB), malware-free Windows app that shows live upload/download speeds in a clean interface, system tray icon, and draggable taskbar widget. Lightweight, portable, and fully compatible with Windows 11.
 
 ## Points seperated networkMonitorLite from others
 
-- Tiny footprint – just 140KB, making it ultra-fast and resource-friendly
+- Tiny footprint – just around 200KB, making it ultra-fast and resource-friendly
 - No malware, no bloat – clean and safe for all systems
 - Windows 11 compatible – runs smoothly on modern setups
 - Instant visibility – see your network performance at a glance
@@ -31,7 +31,11 @@ Main UI:
 
 How to Open the taskbar widget:
 
-![Settings Dialog](img/how_to_display.gif)
+![how to use the taskbar widget?](img/how_to_display.gif)
+
+Settings UI:
+
+![Settings Dialog](img/settings.png)
 
 ## Requirements
 - Windows 10/11
